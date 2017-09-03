@@ -1,0 +1,22 @@
+QWidget#ventana {
+   background-image: url(logo.png);
+   background-size: 100%;
+   background-repeat: no-repeat;
+}
+
+
+QLineEdit{
+    background: rgba(162,204,232,1);
+}
+
+QPushButton {
+    top:100px;
+    float:left;
+   background-color:rgba(57,164,212,1) ;
+   color: #ffffff;
+   font-size: 24px;
+   padding: 10px 15px;
+   border-radius: 5px;
+   border-style: none;
+
+}
